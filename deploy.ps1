@@ -1,0 +1,1 @@
+#This is a ps file for arm template deployment
